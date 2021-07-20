@@ -33,7 +33,8 @@ Como a aplicação está em nível de produção ela foi hospeada no Google Fire
 ## Servidor de desenvolvimento
 Rode `ng server` para um servidor de desenvolvimento. Em seguida, navegue para `http://localhost:4200/`. A Single Page Aplication atualiza automaticamente ao atualizar qualquer mudança nos arquivos fontes.
 <br>
-## Build 
+## Build
+Rode `ng build` para a build do projeto. Os arquivos da build serão armazenados no diretório `dist/`.
 
 
 
